@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0m[32mFunSetSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- contains is implemented[0m[0m
+[0m[[0minfo[0m] [0m[32m- singletonSet(1) contains 1[0m[0m
+[0m[[0minfo[0m] [0m[32m- union contains all elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- intersection contains common elements of each set[0m[0m
+[0m[[0minfo[0m] [0m[32m- Difference contains elements in the first set but not in the second[0m[0m
+[0m[[0minfo[0m] [0m[32m- Filter the main set to get a subset after passing through a certain predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- forall is used for checking if all elements of the set obey the predicate[0m[0m
+[0m[[0minfo[0m] [0m[32m- exists is made up of forall[0m[0m
+[0m[[0minfo[0m] [0m[32m- map to some other set[0m[0m
